@@ -1,10 +1,11 @@
 img {
   height: auto;
-  width: 300px;
+  width: 350px;
 }
 * {
-  padding: 5px;
-  margin: 3px;
+  padding: 8px;
+  margin-top: 8px;
+  margin-left: 10px;
   background-color: black;
   color: white;
   font-size: 20px;
