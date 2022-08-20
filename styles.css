@@ -1,0 +1,23 @@
+img {
+  height: auto;
+  width: 300px;
+}
+* {
+  padding: 5px;
+  margin: 2px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 500;
+}
+.mainimg {
+  height: auto;
+  width: 500px;
+}
+h1,
+h2 {
+  font-size: 35px;
+  font-style: normal;
+  font-weight: lighter;
+}
