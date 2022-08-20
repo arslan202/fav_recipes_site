@@ -3,6 +3,7 @@ img {
   width: 350px;
 }
 * {
+  text-align: center;
   padding: 8px;
   margin-top: 8px;
   margin-left: 10px;
@@ -21,4 +22,11 @@ h2 {
   font-size: 35px;
   font-style: normal;
   font-weight: lighter;
+}
+ul,
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
 }
